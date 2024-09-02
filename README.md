@@ -10,3 +10,8 @@
 ## Then we test in the browser with the subdomain and the view url:
 
 ![image](https://github.com/user-attachments/assets/5aa0448c-7619-4963-8f88-42d2291c756b)
+
+## Tenants and Members can be managed from Django Admin
+
+![image](https://github.com/user-attachments/assets/00664c80-fb1b-4775-aa35-aca524844c02)
+
